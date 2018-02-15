@@ -1,6 +1,6 @@
-## Assignment 5
+# Assignment 5
 
-# Sound Studio
+## Sound Studio
 
 Add a static main method to the Sound class, and inject code into it that demonstrates the operation of the methods that you subsequently add to the Sound class, as specified below.
 
